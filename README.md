@@ -3,7 +3,6 @@
 I love improving myself, learning new technologies and using computers.\
 I'm currently trying to improve myself on the **front-end**, but my ultimate goal is to be an excellent **full-stack developer** and I'm currently volunteering front-end at a [startup](https://www.socialart.app/).\
 \
-2+ years programming experience
 
 ### Connect with me
 
